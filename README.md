@@ -1,5 +1,7 @@
 # KsWare.CmdDotNet
 
+Library for Console projets
+
 - .Net methods for known console commands 
     - echo, prompt, pause, ...
     - mklink, robocopy, ...
