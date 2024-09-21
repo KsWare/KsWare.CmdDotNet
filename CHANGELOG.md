@@ -1,5 +1,7 @@
 # Change Log of KsWare.CmdDotNet
 
+## draft
+
 ## 0.2.0 (2024-07-17)
 - CommandLineArgsBase, CommandLineSwitchAttribute 
 - supports -switch=value syntax
